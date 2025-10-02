@@ -19,3 +19,4 @@ Start the CARLA simulator (0.9.16) before launching the ROS stack. The nodes exp
 # NEVADA
 # NEVADA
 # NEVADA
+"# NEVADA" 
