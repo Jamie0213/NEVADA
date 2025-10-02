@@ -17,3 +17,4 @@ roslaunch carla_multi_vehicle_planner multi_vehicle_autonomy.launch
 
 Start the CARLA simulator (0.9.16) before launching the ROS stack. The nodes expect CARLA to run on `localhost:2000` and the CARLA Python egg to be located at `/home/ctrl/carla/PythonAPI/carla/dist/carla-0.9.16-py3.8-linux-x86_64.egg`.
 # NEVADA
+# NEVADA
